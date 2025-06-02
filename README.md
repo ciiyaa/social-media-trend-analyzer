@@ -1,2 +1,7 @@
-# social-media-trend-analyzer
-A data science mini-project simulating social media engagement trends.
+# 📊 Social Media Likes Analysis
+
+A synthetic data science project exploring random engagement trends across social categories.
+
+## Tools Used
+
+## Features
